@@ -27,7 +27,7 @@ export default function DashboardPage() {
         </div>
         <div className="grid2">
           <div className="card">
-            <h3>Asistencia Mensual</h3><div className="sub">Agosto – Octubre 2026</div>
+            <h3>Asistencia Mensual</h3><div className="sub">Abril – Septiembre 2026</div>
             <svg viewBox="0 0 640 230" width="100%">
               {[50, 65, 80, 100].map(v => (
                 <g key={v}><line x1="40" x2="640" y1={190 - (v - 50) * 3.4} y2={190 - (v - 50) * 3.4} stroke="#eee" strokeDasharray="4" />

@@ -1,5 +1,5 @@
 {
-  "asistenciaMensual": [["Abr", 70], ["May", 77], ["Jun", 65], ["Jul", 80], ["Ago", 83], ["Sep", 76], ["Oct", 23]],
+  "asistenciaMensual": [["Abr", 70], ["May", 77], ["Jun", 65], ["Jul", 80], ["Ago", 83], ["Sep", 76]],
   "metaAsistencia": 80,
   "desercion": 12.4,
   "nuevosMes": 23,

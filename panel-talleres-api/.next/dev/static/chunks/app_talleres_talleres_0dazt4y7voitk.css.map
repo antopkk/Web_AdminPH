@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/antol/OneDrive/Documentos/panel-talleres-api/panel-talleres-api/app/talleres/talleres.css"],"sourcesContent":[".days{display:flex;gap:6px;flex-wrap:wrap}\n.days button{border:1px solid #d5dae1;background:#fff;border-radius:16px;padding:6px 12px;cursor:pointer;font:13px inherit}\n.days button.on{background:var(--blue);color:#fff;border-color:var(--blue)}\n.row2{display:flex;gap:12px}.row2>div{flex:1}\n.t-nombre{font-weight:500}\n.t-prog{font-size:12.5px}\n.t-prof{color:var(--blue)}\n.t-acts{white-space:nowrap}\n"],"names":[],"mappings":"AAAA;;;;;;AACA;;;;;;;;;AACA;;;;;;AACA;;;;;AAA4B;;;;AAC5B;;;;AACA;;;;AACA;;;;AACA"}}]
-}

@@ -8,12 +8,12 @@ body{margin:0;font-family:Inter,system-ui,sans-serif;background:var(--bg);color:
 .nav{padding:14px 10px;flex:1}
 .nav a,.nav button{display:block;width:100%;text-align:left;background:none;border:0;color:#fff;padding:11px 14px;border-radius:10px;font:600 14px inherit;cursor:pointer;margin-bottom:6px;text-decoration:none}
 .nav a.on{background:rgba(255,255,255,.2)}
-.nav .reset{opacity:.7;font-weight:400;margin-top:20px}
 .user{padding:14px 18px;border-top:1px solid rgba(255,255,255,.15);display:flex;gap:10px;align-items:center;font-size:13px}
 .av{width:34px;height:34px;border-radius:50%;background:var(--orange);display:grid;place-items:center;font-weight:700;font-size:12px;flex-shrink:0}
 .main{flex:1;min-width:0}
 .top{background:#fff;padding:16px 26px;border-bottom:1px solid var(--bd)}
 .top h1{margin:0;font-size:20px}.top span{color:var(--mu);font-size:13px}
+.top h5{margin:0;font-size:15px}.top span{color:var(--mu);font-size:13px}
 .cont{padding:24px 26px}
 .card{background:#fff;border-radius:14px;box-shadow:0 1px 6px rgba(0,0,0,.07);padding:20px}
 .tbl{overflow-x:auto;padding:0}
