@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/antol/OneDrive/Documentos/panel-talleres-api/panel-talleres-api/app/dashboard.css"],"sourcesContent":[".grid4{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;margin-bottom:20px}\n.kpi small{color:var(--mu);font-size:13px}\n.kpi b{display:block;font-size:32px;margin:6px 0}\n.grid2{display:grid;grid-template-columns:2fr 1fr;gap:16px;margin-bottom:20px}\n@media(max-width:900px){.grid2{grid-template-columns:1fr}}\n.legend{display:flex;gap:10px;justify-content:center;font-size:12px;flex-wrap:wrap}\n.prog{display:flex;align-items:center;gap:12px;padding:12px 0;border-top:1px solid var(--bd);font-size:14px}\n.prog .name{flex:1}.prog .ins{color:var(--mu)}\n.dot{width:10px;height:10px;border-radius:50%}\n.bar{width:100px;height:6px;background:#eee;border-radius:4px;overflow:hidden}\n.bar i{display:block;height:100%}\n.prog .pct{width:40px;text-align:right}\n"],"names":[],"mappings":"AAAA;;;;;;;AACA;;;;;AACA;;;;;;AACA;;;;;;;AACA;EAAwB;;;;;AACxB;;;;;;;;AACA;;;;;;;;;AACA;;;;AAAmB;;;;AACnB;;;;;;AACA;;;;;;;;AACA;;;;;AACA"}}]
+}

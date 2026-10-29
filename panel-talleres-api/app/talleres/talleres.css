@@ -1,0 +1,8 @@
+.days{display:flex;gap:6px;flex-wrap:wrap}
+.days button{border:1px solid #d5dae1;background:#fff;border-radius:16px;padding:6px 12px;cursor:pointer;font:13px inherit}
+.days button.on{background:var(--blue);color:#fff;border-color:var(--blue)}
+.row2{display:flex;gap:12px}.row2>div{flex:1}
+.t-nombre{font-weight:500}
+.t-prog{font-size:12.5px}
+.t-prof{color:var(--blue)}
+.t-acts{white-space:nowrap}

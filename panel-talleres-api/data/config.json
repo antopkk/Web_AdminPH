@@ -1,0 +1,5 @@
+{
+  "programas": ["Envejecimiento Activo", "Salud Mental y Bienestar", "ECNT", "Salud Infantil", "Rehabilitación"],
+  "dias": ["Lun", "Mar", "Mié", "Jue", "Vie", "Sáb", "Dom"],
+  "colores": ["#1f5f99", "#3fae29", "#f5a623", "#7a4f2c", "#9ccbec"]
+}

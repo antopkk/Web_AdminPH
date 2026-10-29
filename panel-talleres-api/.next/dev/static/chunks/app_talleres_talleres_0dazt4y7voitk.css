@@ -1,0 +1,48 @@
+/* [project]/app/talleres/talleres.css [app-client] (css) */
+.days {
+  flex-wrap: wrap;
+  gap: 6px;
+  display: flex;
+}
+
+.days button {
+  cursor: pointer;
+  background: #fff;
+  border: 1px solid #d5dae1;
+  border-radius: 16px;
+  padding: 6px 12px;
+  font: 13px inherit;
+}
+
+.days button.on {
+  background: var(--blue);
+  color: #fff;
+  border-color: var(--blue);
+}
+
+.row2 {
+  gap: 12px;
+  display: flex;
+}
+
+.row2 > div {
+  flex: 1;
+}
+
+.t-nombre {
+  font-weight: 500;
+}
+
+.t-prog {
+  font-size: 12.5px;
+}
+
+.t-prof {
+  color: var(--blue);
+}
+
+.t-acts {
+  white-space: nowrap;
+}
+
+/*# sourceMappingURL=app_talleres_talleres_0dazt4y7voitk.css.map*/

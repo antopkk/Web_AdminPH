@@ -1,0 +1,82 @@
+/* [project]/app/dashboard.css [app-client] (css) */
+.grid4 {
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin-bottom: 20px;
+  display: grid;
+}
+
+.kpi small {
+  color: var(--mu);
+  font-size: 13px;
+}
+
+.kpi b {
+  margin: 6px 0;
+  font-size: 32px;
+  display: block;
+}
+
+.grid2 {
+  grid-template-columns: 2fr 1fr;
+  gap: 16px;
+  margin-bottom: 20px;
+  display: grid;
+}
+
+@media (max-width: 900px) {
+  .grid2 {
+    grid-template-columns: 1fr;
+  }
+}
+
+.legend {
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  font-size: 12px;
+  display: flex;
+}
+
+.prog {
+  border-top: 1px solid var(--bd);
+  align-items: center;
+  gap: 12px;
+  padding: 12px 0;
+  font-size: 14px;
+  display: flex;
+}
+
+.prog .name {
+  flex: 1;
+}
+
+.prog .ins {
+  color: var(--mu);
+}
+
+.dot {
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+}
+
+.bar {
+  background: #eee;
+  border-radius: 4px;
+  width: 100px;
+  height: 6px;
+  overflow: hidden;
+}
+
+.bar i {
+  height: 100%;
+  display: block;
+}
+
+.prog .pct {
+  text-align: right;
+  width: 40px;
+}
+
+/*# sourceMappingURL=app_dashboard_1oj27ns9722bc.css.map*/

@@ -1,0 +1,8 @@
+{
+  "asistenciaMensual": [["Abr", 70], ["May", 77], ["Jun", 65], ["Jul", 80], ["Ago", 83], ["Sep", 76], ["Oct", 23]],
+  "metaAsistencia": 80,
+  "desercion": 12.4,
+  "nuevosMes": 23,
+  "edades": [["18–35", 18], ["36–50", 28], ["51–65", 34], ["65+", 20]],
+  "asistenciaPrograma": { "Envejecimiento Activo": 82, "Salud Mental y Bienestar": 74, "ECNT": 68, "Salud Infantil": 79, "Rehabilitación": 85 }
+}
